@@ -1,5 +1,5 @@
 import _axios from 'axios';
 
 export const axios = _axios.create({
-	baseURL: 'https://notehub-db2.onrender.com',
+	baseURL: 'https://noteub-2.onrender.com',
 });
